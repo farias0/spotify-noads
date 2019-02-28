@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#to put on /bin/, remember to adjust the path
+
+sudo python3 ~/Documents/spotify-noads/noads.py "$@"
